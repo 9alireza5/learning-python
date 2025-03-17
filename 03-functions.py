@@ -1,4 +1,4 @@
-print('for saying hello t 4 people we have three ways:')
+print('for saying hello to 4 people we have three ways:')
 print('----------')
 print('first way is using print 4 times:')
 print('hello a')
